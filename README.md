@@ -18,5 +18,5 @@ Task management: users can create, edit, and delete tasks related to each course
 Progress tracking: users can mark tasks as completed to track their progress through a course.
 
 # Contributing
-If you would like to contribute to the Course Progress Tracker Web App, please contact me.
+If you would like to contribute to the Course Progress Tracker Web App, please contact me via email: florin.dobinciuc@learninglab.cloud.
 
