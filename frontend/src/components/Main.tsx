@@ -11,7 +11,7 @@ interface Data {
   user_rating: number;
 }
 
-const Header = () => {
+const Main = () => {
   const [courseData, setCourseData] = useState<Data[]>([]);
 
   useEffect(() => {
@@ -37,4 +37,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Main;
